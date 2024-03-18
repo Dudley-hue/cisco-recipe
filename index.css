@@ -1,0 +1,29 @@
+header{
+  background-color: darkslategray;text-align: center;text-decoration: solid;
+  padding: 20pt;
+}
+nav{
+  background-color: gray;text-align: center;justify-items: center;margin-inline: 0;padding: 0svh;
+}
+footer{
+  background-color: beige;text-align: center;font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: large;padding: 25px;
+}
+nav ul{
+  list-style: none;
+  margin: 0%;
+  padding: 0;
+}
+nav ul li{
+  display: inline-flex;
+}
+nav ul li{
+  display: inline-flex;
+}
+nav ul li a{
+  display: flow-root;
+  padding: 35px 35px;
+  text-decoration: underline;
+}
+nav ul li+li{
+  margin-left: 10px;
+}
